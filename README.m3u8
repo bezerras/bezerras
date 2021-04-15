@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English HD" tvg-logo="" group-title="Canais | Exclusivos",Al Jazeera English HD
-http://4tv.site:2082/9223dd/11992238668/37491
+http://4tv.site:2082/9223dd/11992238668/37491.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Canal 26 Argentina" tvg-logo="" group-title="Canais | Exclusivos",Canal 26 Argentina
-http://4tv.site:2082/9223dd/11992238668/37493
+http://4tv.site:2082/9223dd/11992238668/37493.m3u
 #EXTINF:-1 tvg-id="" tvg-name="DW ESPANHOL²" tvg-logo="" group-title="Canais | Exclusivos",DW ESPANHOL²
-http://4tv.site:2082/9223dd/11992238668/37494
+http://4tv.site:2082/9223dd/11992238668/37494.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV FHD" tvg-logo="" group-title="Canais | Exclusivos",FASHION TV FHD
 http://4tv.site:2082/9223dd/11992238668/37495
 #EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR SD²" tvg-logo="" group-title="Canais | Religiosos",TV EVANGELIZAR SD²
@@ -28,30 +28,30 @@ http://4tv.site:2082/9223dd/11992238668/37504
 #EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV" tvg-logo="" group-title="Canais | Exclusivos",REAL MADRID TV
 http://4tv.site:2082/9223dd/11992238668/37505
 #EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS FHD H265" tvg-logo="" group-title="Canais | Religiosos",REDE GENESIS FHD H265
-http://4tv.site:2082/9223dd/11992238668/37506
+http://4tv.site:2082/9223dd/11992238668/37506.m3u
 #EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL FHD" tvg-logo="" group-title="Canais | Religiosos",REDE GOSPEL FHD
-http://4tv.site:2082/9223dd/11992238668/37507
+http://4tv.site:2082/9223dd/11992238668/37507.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CENTRAL BR TV HD" tvg-logo="" group-title="Canais | Exclusivos",CENTRAL BR TV HD
-http://4tv.site:2082/9223dd/11992238668/37510
+http://4tv.site:2082/9223dd/11992238668/37510.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TV PAMPA HD" tvg-logo="" group-title="Canais | Exclusivos",TV PAMPA HD
-http://4tv.site:2082/9223dd/11992238668/37511
+http://4tv.site:2082/9223dd/11992238668/37511.m3u
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="SPORTV FHD" tvg-logo="http://yesportal.online/sportv.png" group-title="Canais | SporTV",SPORTV FHD
-http://4tv.site:2082/9223dd/11992238668/38311
+http://4tv.site:2082/9223dd/11992238668/38311.m3u
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 HD" tvg-logo="http://yesportal.online/arte1.png" group-title="Canais | Variedades",ARTE1 HD
-http://4tv.site:2082/9223dd/11992238668/38712
+http://4tv.site:2082/9223dd/11992238668/38712.m3u
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 FHD" tvg-logo="http://yesportal.online/arte1.png" group-title="Canais | Variedades",ARTE1 FHD
-http://4tv.site:2082/9223dd/11992238668/38713
+http://4tv.site:2082/9223dd/11992238668/38713.m3u
 #EXTINF:-1 tvg-id="aande.br" tvg-name="YEEAH TV HD" tvg-logo="http://yesportal.online/yeeah.png" group-title="Canais | Variedades",YEEAH TV HD
-http://4tv.site:2082/9223dd/11992238668/38714
+http://4tv.site:2082/9223dd/11992238668/38714.m3u
 #EXTINF:-1 tvg-id="Chef TV" tvg-name="CHEF TV FHD" tvg-logo="http://yesportal.online/cheftv.png" group-title="Canais | Variedades",CHEF TV FHD
-http://4tv.site:2082/9223dd/11992238668/38715
+http://4tv.site:2082/9223dd/11992238668/38715.m3u
 #EXTINF:-1 tvg-id="Chef TV" tvg-name="CHEF TV HD" tvg-logo="http://yesportal.online/cheftv.png" group-title="Canais | Variedades",CHEF TV HD
-http://4tv.site:2082/9223dd/11992238668/38716
+http://4tv.site:2082/9223dd/11992238668/38716.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CATVE HD" tvg-logo="" group-title="Canais | Exclusivos",CATVE HD
-http://4tv.site:2082/9223dd/11992238668/38717
+http://4tv.site:2082/9223dd/11992238668/38717.m3u
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL FHD" tvg-logo="http://yesportal.online/cnnbrasil.png" group-title="Canais | Notícias",CNN BRASIL FHD
-http://4tv.site:2082/9223dd/11992238668/38718
+http://4tv.site:2082/9223dd/11992238668/38718.m3u
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL HD¹" tvg-logo="http://yesportal.online/cnnbrasil.png" group-title="Canais | Notícias",CNN BRASIL HD¹
-http://4tv.site:2082/9223dd/11992238668/38719
+http://4tv.site:2082/9223dd/11992238668/38719.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL FHD" tvg-logo="http://yesportal.online/cnnespanhol.png" group-title="Canais | Notícias",CNN ESPANHOL FHD
-http://4tv.site:2082/9223dd/11992238668/38720
+http://4tv.site:2082/9223dd/11992238668/38720.m3u

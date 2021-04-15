@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BBB HD 1" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Canais BBB 2021",BBB HD 1
-http://dns.clientetv.net:8080/live/576389/576389/42488.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="BBB 1" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Canais BBB 2021",BBB 1
-http://dns.clientetv.net:8080/live/576389/576389/42859.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="BBB HD 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Canais BBB 2021",BBB HD 2
-http://dns.clientetv.net:8080/live/576389/576389/42489.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="BBB HD 3 " tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Canais BBB 2021",BBB HD 3 
-http://dns.clientetv.net:8080/live/576389/576389/42860.m3u8
+

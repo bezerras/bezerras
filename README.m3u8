@@ -3001,3 +3001,65 @@ http://4tv.site:2082/movie/9223dd/11992238668/40715.mp4
 http://4tv.site:2082/movie/9223dd/11992238668/40716.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Meus 15 Anos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oF915XBphUKpnzro1WjOP01XVEp.jpg" group-title="Filmes | Nacionais",Meus 15 Anos (2017)
 http://4tv.site:2082/movie/9223dd/11992238668/40717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TV PAMPA HD" tvg-logo="" group-title="Canais | Exclusivos",TV PAMPA HD
+http://4tv.site:2082/9223dd/11992238668/37511
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="SPORTV FHD" tvg-logo="http://yesportal.online/sportv.png" group-title="Canais | SporTV",SPORTV FHD
+http://4tv.site:2082/9223dd/11992238668/38311
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 HD" tvg-logo="http://yesportal.online/arte1.png" group-title="Canais | Variedades",ARTE1 HD
+http://4tv.site:2082/9223dd/11992238668/38712
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 FHD" tvg-logo="http://yesportal.online/arte1.png" group-title="Canais | Variedades",ARTE1 FHD
+http://4tv.site:2082/9223dd/11992238668/38713
+#EXTINF:-1 tvg-id="aande.br" tvg-name="YEEAH TV HD" tvg-logo="http://yesportal.online/yeeah.png" group-title="Canais | Variedades",YEEAH TV HD
+http://4tv.site:2082/9223dd/11992238668/38714
+#EXTINF:-1 tvg-id="Chef TV" tvg-name="CHEF TV FHD" tvg-logo="http://yesportal.online/cheftv.png" group-title="Canais | Variedades",CHEF TV FHD
+http://4tv.site:2082/9223dd/11992238668/38715
+#EXTINF:-1 tvg-id="Chef TV" tvg-name="CHEF TV HD" tvg-logo="http://yesportal.online/cheftv.png" group-title="Canais | Variedades",CHEF TV HD
+http://4tv.site:2082/9223dd/11992238668/38716
+#EXTINF:-1 tvg-id="" tvg-name="CATVE HD" tvg-logo="" group-title="Canais | Exclusivos",CATVE HD
+http://4tv.site:2082/9223dd/11992238668/38717
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL FHD" tvg-logo="http://yesportal.online/cnnbrasil.png" group-title="Canais | Notícias",CNN BRASIL FHD
+http://4tv.site:2082/9223dd/11992238668/38718
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL HD¹" tvg-logo="http://yesportal.online/cnnbrasil.png" group-title="Canais | Notícias",CNN BRASIL HD¹
+http://4tv.site:2082/9223dd/11992238668/38719
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL FHD" tvg-logo="http://yesportal.online/cnnespanhol.png" group-title="Canais | Notícias",CNN ESPANHOL FHD
+http://4tv.site:2082/9223dd/11992238668/38720
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL HD" tvg-logo="http://yesportal.online/cnn.png" group-title="Canais | Notícias",CNN INTERNACIONAL HD
+http://4tv.site:2082/9223dd/11992238668/38721
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://yesportal.online/comedy.png" group-title="Canais | Variedades",COMEDY CENTRAL FHD
+http://4tv.site:2082/9223dd/11992238668/38722
+#EXTINF:-1 tvg-id="" tvg-name="DJING ANIMATION HD" tvg-logo="" group-title="Canais | Exclusivos",DJING ANIMATION HD
+http://4tv.site:2082/9223dd/11992238668/38723
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV FHD" tvg-logo="" group-title="Canais | Exclusivos",DOG TV FHD
+http://4tv.site:2082/9223dd/11992238668/38725
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD H265²" tvg-logo="http://yesportal.online/e.png" group-title="Canais | Variedades",E! FHD H265²
+http://4tv.site:2082/9223dd/11992238668/38726
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS FHD" tvg-logo="http://yesportal.online/foxnews.png" group-title="Canais | Notícias",FOX NEWS FHD
+http://4tv.site:2082/9223dd/11992238668/38727
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS HD" tvg-logo="http://yesportal.online/foxnews.png" group-title="Canais | Notícias",FOX NEWS HD
+http://4tv.site:2082/9223dd/11992238668/38728
+#EXTINF:-1 tvg-id="futura.br" tvg-name="CANAL FUTURA HD²" tvg-logo="http://yesportal.online/futura.png" group-title="Canais | Abertos",CANAL FUTURA HD²
+http://4tv.site:2082/9223dd/11992238668/38729
+#EXTINF:-1 tvg-id="futura.br" tvg-name="CANAL FUTURA SD²" tvg-logo="http://yesportal.online/futura.png" group-title="Canais | Abertos",CANAL FUTURA SD²
+http://4tv.site:2082/9223dd/11992238668/38730
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD H265²" tvg-logo="http://yesportal.online/gnt.png" group-title="Canais | Variedades",GNT FHD H265²
+http://4tv.site:2082/9223dd/11992238668/38731
+#EXTINF:-1 tvg-id="" tvg-name="SANTUÁRIO DE FÁTIMA FHD" tvg-logo="" group-title="Canais | Religiosos",SANTUÁRIO DE FÁTIMA FHD
+http://4tv.site:2082/9223dd/11992238668/38732
+#EXTINF:-1 tvg-id="" tvg-name="TV TEEN HD" tvg-logo="" group-title="Canais | Exclusivos",TV TEEN HD
+http://4tv.site:2082/9223dd/11992238668/38733
+#EXTINF:-1 tvg-id="" tvg-name="ITV HD" tvg-logo="" group-title="Canais | Exclusivos",ITV HD
+http://4tv.site:2082/9223dd/11992238668/38734
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN TV FHD" tvg-logo="" group-title="Canais | Exclusivos",JOVEM PAN TV FHD
+http://4tv.site:2082/9223dd/11992238668/38735
+#EXTINF:-1 tvg-id="" tvg-name="ALL KPOP TV HD" tvg-logo="" group-title="Canais | Exclusivos",ALL KPOP TV HD
+http://4tv.site:2082/9223dd/11992238668/38736
+#EXTINF:-1 tvg-id="" tvg-name="THE KPOP FHD" tvg-logo="" group-title="Canais | Exclusivos",THE KPOP FHD
+http://4tv.site:2082/9223dd/11992238668/38737
+#EXTINF:-1 tvg-id="" tvg-name="NOVA MANCHETE HD" tvg-logo="" group-title="Canais | Exclusivos",NOVA MANCHETE HD
+http://4tv.site:2082/9223dd/11992238668/38738
+#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRAZIL FHD" tvg-logo="http://yesportal.online/musicboxbrasil.png" group-title="Canais | Variedades",MUSIC BOX BRAZIL FHD
+http://4tv.site:2082/9223dd/11992238668/38739
+#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="http://yesportal.online/musicboxbrasil.png" group-title="Canais | Variedades",MUSIC BOX BRASIL HD
+http://4tv.site:2082/9223dd/11992238668/38740
+#EXTINF:-1 tvg-id="" tvg-name="MASTER TV HD" tvg-logo="" group-title="Canais | Exclusivos",MASTER TV HD
+http://4tv.site:2082/9223dd/11992238668/38741
